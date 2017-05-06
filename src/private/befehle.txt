@@ -1,0 +1,18 @@
+create-react-app NAME
+cd NAME
+npm init
+npm update
+atom .
+npm install --save react react-dom react-bootstrap react-router
+npm run start
+
+
+
+
+
+  <meta name="viewport" ....  HANDYS
+
+  React, {KLASSE}
+
+  70px bootstrap nav header+footer höhe
+BLA
