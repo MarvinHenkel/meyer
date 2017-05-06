@@ -15,4 +15,3 @@ npm run start
   React, {KLASSE}
 
   70px bootstrap nav header+footer höhe
-BLA
